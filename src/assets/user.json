@@ -1,0 +1,29 @@
+[
+    {
+        "label":"Anu",
+        "Age" : 20,
+        "value":"anu@gmail.com",
+        "Mobile":9842597221,
+        "Pincode":636001
+
+    },
+    {
+        "label":"Anubala",
+        "Age" : 20,
+        "value":"anubala@gmail.com",
+        "Mobile":9842597451,
+        "Pincode":636002
+
+    },
+    {
+        "label":"john",
+        "Age" : 20,
+        "value":"ajohn@gmail.com",
+        "Mobile":9842512221,
+        "Pincode":636005
+
+    }
+
+]
+
+    
